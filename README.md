@@ -46,6 +46,8 @@ The computer randomly chooses its move, and the player tries to beat it.
    - If both choices are the same → draw  
 4. The winner is displayed in the console.
 
+<img width="339" height="313" alt="image" src="https://github.com/user-attachments/assets/ad1f3a16-fb41-433a-aad0-dfa5fb8d9c26" />
+
 ## Screenshots
 <img width="438" height="97" alt="image" src="https://github.com/user-attachments/assets/5e5fac88-7ed2-47bb-bbd2-a7f2fedbd50f" />
 <img width="430" height="100" alt="image" src="https://github.com/user-attachments/assets/cf3ca97a-536a-438a-8593-f93b8b2daf10" />
